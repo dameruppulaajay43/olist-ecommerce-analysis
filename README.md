@@ -17,10 +17,12 @@ An end-to-end analysis of ~100K orders from a Brazilian online marketplace (Olis
 
 **Page 1: Sales Overview**
 
+https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/dvd5vrkqb5st4sk5dkmv
 
 
 **Page 2: Delivery & Customer Satisfaction**
 
+https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ns9g77rgtat6gjqproah
 
 ---
 
